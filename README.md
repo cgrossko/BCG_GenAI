@@ -7,7 +7,9 @@ This project was completed as part of a job simulation through Boston Consulting
 **Project Components**
 
 1. 10-K Financial Data Extraction
+   
 Objective: Extract financial data from the 10-K filings of three large companies.
+
 Process: Retrieved key financial metrics, including total revenue, net income, total assets, and total liabilities.
 Organized and stored the extracted data in an Excel file for further analysis.
 
